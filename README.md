@@ -29,3 +29,4 @@ Here are the files for the milestone:
 ## Milestone 5
 Here are the files for the milestone:
 * [workflow.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/05_workflow.ipynb)
+* [mermaid_diagram.png](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/05_mermaid_diagram.png)
