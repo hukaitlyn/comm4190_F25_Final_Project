@@ -13,9 +13,9 @@ Here are the files for the milestone:
 ## Milestone 2
 Here are the files for the milestone:
 
-* [caroline_usage_scenarios.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/caroline_usage_scenarios.ipynb)
-* [emily_usage_scenarios.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/emily_usage_scenarios.ipynb)
-* [kaitlyn_usage_scenario.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/kaitlyn_usage_scenario.ipynb)
+* [caroline_usuage_scenarios.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/caroline_usage_scenarios.ipynb)
+* [emily_usuage_scenarios.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/emily_usage_scenarios.ipynb)
+* [kaitlyn_usuage_scenario.ipynb](https://github.com/hukaitlyn/comm4190_F25_Final_Project/blob/main/kaitlyn_usage_scenario.ipynb)
 
 ## Milestone 3
 Here are the files for the milestone:
